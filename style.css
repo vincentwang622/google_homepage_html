@@ -1,0 +1,85 @@
+html {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+}
+
+#container {
+    position: relative;
+    min-height: 100%;
+    padding-bottom: 80px;
+}
+
+.parent {
+    text-align: center;
+}
+
+#g-logo {
+    margin-top: 150px;
+}
+
+.logo {
+    display: inline-block;
+}
+
+#search-bar {
+    width: 350px;
+    height: 35px;
+    border: none;
+    font-size: 1em;
+}
+
+#voice-control {
+    height: 20px;
+    width: 20px;
+    vertical-align: middle;
+}
+
+#sub-btn {
+    margin: 25px;
+}
+
+#sub-btn input{
+    margin: 5px;
+    padding:10px 15px;
+    border: none;
+    background-color: #F2F2F2;
+    border-radius: 2px;
+    font-weight: bold;
+    color: #757575;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 15px;
+}
+
+ul li {
+    display: inline-block;
+    margin: 5px 10px;
+}
+
+.r-link {
+    float: right;
+}
+
+.g-app {
+    height: 15px;
+    width: 15px;
+    opacity: 0.75;
+  }
+
+  .g-app:hover {
+    opacity: 1;
+ }
+
+ #sign-in {
+    background-color: blue;
+    color: #FFF;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-weight: bold;
+  }
+  
